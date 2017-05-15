@@ -7,6 +7,7 @@ public class GitRunner {
 		System.out.println("Fixed");
 		System.out.println("Bruh");
 		System.out.println("Syso commit");
+		System.out.println("Getting better");
 
 	}
 
